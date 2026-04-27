@@ -1,4 +1,4 @@
-# Business Analytics Terminology Research Assignment# Business Analytics Terminology Research Assignment.
+# Business Analytics Terminology Research Assignment.
 The purpose of this assignment is to build a strong conceptual foundation in the language of Business Analytics by researching, defining, and applying essential analytics terms used in real-world business environments.
 
 The assignment covers **38 core Business Analytics concepts**, including foundational analytics types, data and reporting terminology, customer and sales KPIs, and marketing campaign analytics.
