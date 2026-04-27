@@ -89,16 +89,6 @@ Research was conducted using reputable academic and industry resources, includin
 
 ---
 
-## ✅ Academic Integrity
-This assignment was completed in accordance with academic integrity guidelines:
-
-- Definitions are written in original wording  
-- Sources are properly cited  
-- Content demonstrates understanding rather than memorisation  
-- AI tools were used only as learning aids, not as final content generators  
-
----
-
 ## 📄 File Contents
 - `BrightLearn Business Analytics Terminology.pdf` – Final submission document containing all definitions, examples, and references.
 
@@ -117,5 +107,5 @@ The work demonstrates foundational knowledge in Business Analytics and readiness
 
 ---
 
-## 📘 Overview
+
 
