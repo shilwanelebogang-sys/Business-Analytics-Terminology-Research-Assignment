@@ -96,7 +96,7 @@ Research was conducted using reputable academic and industry resources, includin
 
 ## 👤 Author
 **Lebogang Shilwane**  
-Business Analytics Student  
+Data Science Student  
 Production & Operations Background  
 
 ---
