@@ -5,7 +5,7 @@ The assignment covers **38 core Business Analytics concepts**, including foundat
 
 ---
 
-## 🎯 Objectives
+## Objectives
 The main goals of this research assignment are to:
 
 - Understand and correctly use the core vocabulary of Business Analytics  
@@ -16,10 +16,10 @@ The main goals of this research assignment are to:
 
 ---
 
-## 📂 Assignment Structure
+## Assignment Structure
 The document is organised into the following sections:
 
-### 1️⃣ Foundational Concepts of Analytics
+### 1️Foundational Concepts of Analytics
 - Business Analytics  
 - Data Analytics  
 - Business Intelligence (BI)  
@@ -27,7 +27,7 @@ The document is organised into the following sections:
 - Descriptive, Diagnostic, Predictive & Prescriptive Analytics  
 - Big Data & Data Literacy  
 
-### 2️⃣ Data, Measurement & Reporting
+### Data, Measurement & Reporting
 - Structured vs Unstructured Data  
 - Data Warehouse  
 - Data Mining  
@@ -36,7 +36,7 @@ The document is organised into the following sections:
 - Metrics vs KPIs  
 - Benchmarks & Segmentation  
 
-### 3️⃣ Customer & Sales KPIs
+### 3️Customer & Sales KPIs
 - Conversion Rate  
 - Customer Acquisition Cost (CAC)  
 - Customer Lifetime Value (CLV / LTV)  
@@ -45,7 +45,7 @@ The document is organised into the following sections:
 - Average Order Value (AOV)  
 - Sales Funnel  
 
-### 4️⃣ Marketing & Campaign Analytics
+### 4️Marketing & Campaign Analytics
 - Marketing Campaigns  
 - Post-Campaign Analysis  
 - Incremental Revenue  
@@ -58,7 +58,7 @@ The document is organised into the following sections:
 
 ---
 
-## 📝 Methodology
+## Methodology
 For each term, the following approach was used:
 
 1. **Definition**  
@@ -76,7 +76,7 @@ All definitions are written to demonstrate understanding rather than direct para
 
 ---
 
-## 📚 Sources & References
+## Sources & References
 Research was conducted using reputable academic and industry resources, including but not limited to:
 
 - Harvard Business Review  
@@ -89,19 +89,19 @@ Research was conducted using reputable academic and industry resources, includin
 
 ---
 
-## 📄 File Contents
+## File Contents
 - `BrightLearn Business Analytics Terminology.pdf` – Final submission document containing all definitions, examples, and references.
 
 ---
 
-## 👤 Author
+## Author
 **Lebogang Shilwane**  
 Data Science Student  
 Production & Operations Background  
 
 ---
 
-## 📌 Notes
+## Notes
 This repository is intended for **educational and portfolio purposes**.  
 The work demonstrates foundational knowledge in Business Analytics and readiness for further applied analytics projects.
 
